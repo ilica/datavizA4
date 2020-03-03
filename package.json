@@ -1,0 +1,14 @@
+{
+  "name": "ebfea40a9a3b4739",
+  "main": "ebfea40a9a3b4739@1383.js",
+  "version": "1383.0.0",
+  "homepage": "https://observablehq.com/d/ebfea40a9a3b4739",
+  "author": {
+    "name": "whall800",
+    "url": "https://observablehq.com/@whall800"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
